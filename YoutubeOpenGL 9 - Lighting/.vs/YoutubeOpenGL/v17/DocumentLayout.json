@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\light.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:light.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T18:17:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T17:48:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "light.frag",
+              "DocumentMoniker": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\light.frag",
+              "RelativeDocumentMoniker": "light.frag",
+              "ToolTip": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\light.frag",
+              "RelativeToolTip": "light.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T17:30:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\Marty\\Downloads\\KG project\\KG_proj\\CG-Custom_Lightning_Shaders\\YoutubeOpenGL 9 - Lighting\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAQwA4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T16:23:37.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+./YoutubeOpenGL 9 - Lighting/.vs/YoutubeOpenGL/v17/ipch/AutoPCH/94fae856a9b11440/CAMERA.ipch
+./YoutubeOpenGL 9 - Lighting/.vs/YoutubeOpenGL/v17/ipch/AutoPCH/c154852d200689ac/CAMERA.ipch
